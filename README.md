@@ -1,6 +1,6 @@
-# SmartTrack - Personal Expense Tracker
+# AJ Tracker - Personal Expense Tracker
 
-SmartTrack is a modern, user-friendly web application for tracking personal expenses. Built with vanilla JavaScript and Firebase, it helps users manage their finances by tracking expenses, visualizing spending patterns, and maintaining budgets.
+AJ Tracker is a modern, user-friendly web application for tracking personal expenses. Built with vanilla JavaScript and Firebase, it helps users manage their finances by tracking expenses, visualizing spending patterns, and maintaining budgets.
 
 ## Features
 
@@ -36,8 +36,8 @@ SmartTrack is a modern, user-friendly web application for tracking personal expe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smarttrack.git
-   cd smarttrack
+   git clone https://github.com/yourusername/AJ Tracker.git
+   cd AJ Tracker
    ```
 
 2. Create a Firebase project:
@@ -85,7 +85,7 @@ SmartTrack is a modern, user-friendly web application for tracking personal expe
 ## Project Structure
 
 ```
-smarttrack/
+AJ Tracker/
 ├── css/
 │   └── style.css
 ├── js/
